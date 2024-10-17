@@ -71,6 +71,10 @@
         "rotateForward": "時計回りに回転します"
     },
     "scrollMode": {
+        "singlePage": "単一ページ",
+        "dualPage": "2ページ",
+        "dualPageCover": "カバーページ付きの2ページ",
+        "pageScrolling": "ページスクロール",
         "horizontalScrolling": "水平スクロール",
         "verticalScrolling": "垂直スクロール",
         "wrappedScrolling": "ラップされたスクロール"

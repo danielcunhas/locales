@@ -71,6 +71,10 @@
         "rotateForward": "Ruotare in senso orario"
     },
     "scrollMode": {
+        "singlePage": "Pagina singola",
+        "dualPage": "Due pagine",
+        "dualPageCover": "Due pagine con copertina",
+        "pageScrolling": "Scorrimento pagina",
         "horizontalScrolling": "Scorrimento orizzontale",
         "verticalScrolling": "Scorrimento verticale",
         "wrappedScrolling": "Scorrimento avvolto"

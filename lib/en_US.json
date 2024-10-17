@@ -71,6 +71,10 @@
         "rotateForward": "Rotate clockwise"
     },
     "scrollMode": {
+        "singlePage": "Single page",
+        "dualPage": "Dual page",
+        "dualPageCover": "Dual page with cover",
+        "pageScrolling": "Page scrolling",
         "horizontalScrolling": "Horizontal scrolling",
         "verticalScrolling": "Vertical scrolling",
         "wrappedScrolling": "Wrapped scrolling"

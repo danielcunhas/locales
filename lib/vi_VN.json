@@ -71,6 +71,10 @@
         "rotateForward": "Xoay chiều kim đồng hồ"
     },
     "scrollMode": {
+        "singlePage": "Trang đơn",
+        "dualPage": "Hai trang",
+        "dualPageCover": "Bìa đôi",
+        "pageScrolling": "Cuộn trang",
         "horizontalScrolling": "Cuộn ngang",
         "verticalScrolling": "Cuộn dọc",
         "wrappedScrolling": "Cuộn lưới"

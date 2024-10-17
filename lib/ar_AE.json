@@ -71,6 +71,10 @@
         "rotateForward": "تدور في اتجاه عقارب الساعة"
     },
     "scrollMode": {
+        "singlePage": "صفحة واحدة",
+        "dualPage": "صفحتان",
+        "dualPageCover": "صفحتان مع غلاف",
+        "pageScrolling": "تمرير الصفحة",
         "horizontalScrolling": "التمرير الأفقي",
         "verticalScrolling": "التمرير العمودي",
         "wrappedScrolling": "التمرير ملفوفة"

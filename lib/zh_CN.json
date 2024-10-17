@@ -71,6 +71,10 @@
         "rotateForward": "顺时针旋转"
     },
     "scrollMode": {
+        "singlePage": "单页",
+        "dualPage": "双页",
+        "dualPageCover": "封面双页",
+        "pageScrolling": "页面滚动",
         "horizontalScrolling": "水平滚动",
         "verticalScrolling": "垂直滚动",
         "wrappedScrolling": "环绕滚动"

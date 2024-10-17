@@ -71,6 +71,10 @@
         "rotateForward": "Im Uhrzeigersinn drehen"
     },
     "scrollMode": {
+        "singlePage": "Einzelseite",
+        "dualPage": "Doppelseite",
+        "dualPageCover": "Doppelseite mit Umschlag",
+        "pageScrolling": "Seitenweise scrollen",
         "horizontalScrolling": "Horizontales Scrollen",
         "verticalScrolling": "Vertikales Scrollen",
         "wrappedScrolling": "Umwickeltes Scrollen"

@@ -71,6 +71,10 @@
         "rotateForward": "Tourner en avant"
     },
     "scrollMode": {
+        "singlePage": "Page unique",
+        "dualPage": "Deux pages",
+        "dualPageCover": "Deux pages avec couverture",
+        "pageScrolling": "Défilement de page",
         "horizontalScrolling": "Défilement horizontal",
         "verticalScrolling": "Défilement vertical",
         "wrappedScrolling": "Défilement de nombreuses pages"

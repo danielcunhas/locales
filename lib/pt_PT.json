@@ -71,6 +71,10 @@
         "rotateForward": "Girar no sentido horário"
     },
     "scrollMode": {
+        "singlePage": "Página única",
+        "dualPage": "Página dupla",
+        "dualPageCover": "Página dupla com capa",
+        "pageScrolling": "Rolagem de página",
         "horizontalScrolling": "Rolagem horizontal",
         "verticalScrolling": "Rolagem vertical",
         "wrappedScrolling": "Rolagem envolvida"

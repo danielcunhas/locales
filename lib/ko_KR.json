@@ -71,6 +71,10 @@
         "rotateForward": "시계 방향으로 회전"
     },
     "scrollMode": {
+        "singlePage": "단일 페이지",
+        "dualPage": "이중 페이지",
+        "dualPageCover": "이중 페이지(표지 포함)",
+        "pageScrolling": "페이지 스크롤링",
         "horizontalScrolling": "수평 스크롤링",
         "verticalScrolling": "수직 스크롤링",
         "wrappedScrolling": "자동줄바꿈 스크롤링"

@@ -71,6 +71,10 @@
         "rotateForward": "Вращаться по часовой стрелке"
     },
     "scrollMode": {
+        "singlePage": "Одинарная страница",
+        "dualPage": "Двойная страница",
+        "dualPageCover": "Двойная страница с обложкой",
+        "pageScrolling": "Прокрутка страницы",
         "horizontalScrolling": "Горизонтальная прокрутка",
         "verticalScrolling": "Вертикальная прокрутка",
         "wrappedScrolling": "Прокрутка с переносом"
@@ -104,6 +108,6 @@
         "pageWidth": "Ширина страницы",
         "zoomDocument": "Увеличить документ",
         "zoomIn": "Приблизить",
-        "zoomOut": "Уменьшить"
+        "zoomOut": "Отдалить"
     }
 }
